@@ -1,8 +1,8 @@
-# OOSE_Document_Editor
+# Text Editor
 A teamwork of OOSE courses for partial Java implementation of the Lexi Editor from the book Design Patterns by the GoF.
 
 ## Key Functionality
-- Can write characters on the app and insert images using the menu item.
+- Can write characters on the app.
 - Can save and open document.
 - Can use default styles and custom style.
 - Color and background color is changeable.
