@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apache-commons-lang">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OOSE_changeUI_1020/OOSE_Document_Editor-main/libs/apache-commons-lang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

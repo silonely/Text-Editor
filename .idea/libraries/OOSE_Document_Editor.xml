@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OOSE_Document_Editor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OOSE_changeUI_1020/OOSE_Document_Editor-main/out/artifacts/OOSE_Document_Editor_jar/OOSE_Document_Editor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OOSE_changeUI_1020/OOSE_Document_Editor-main/libs/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/OOSE_changeUI_1020/OOSE_Document_Editor-main/libs/jsoup-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apache-commons-lang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../commons-text-1.9-src.zip!/commons-text-1.9-src/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../commons-text-1.9-src.zip!/commons-text-1.9-src/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
